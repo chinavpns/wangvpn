@@ -1,6 +1,6 @@
 # 大揭秘：老王加速器怎么样？老王VPN是钓鱼软件吗？
 
-<p align="center">最近更新于：2025年7月6日</p>
+<p align="center">最近更新于：2025年8月14日</p>
 
 ![大揭秘：老王加速器怎么样？老王VPN是钓鱼软件吗？](https://raw.githubusercontent.com/chinavpns/wangvpn/refs/heads/main/image/WangVPN.png)
 
