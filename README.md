@@ -1,6 +1,6 @@
 # 大揭秘：老王加速器怎么样？老王VPN是钓鱼软件吗？
 
-<p align="center">最近更新于：2025年8月14日</p>
+<p align="center">最近更新于：2025年9月6日</p>
 
 ![大揭秘：老王加速器怎么样？老王VPN是钓鱼软件吗？](https://raw.githubusercontent.com/chinavpns/wangvpn/refs/heads/main/image/WangVPN.png)
 
@@ -109,7 +109,7 @@
 
 从综合体验来看，老王VPN绝对不是一款值得大家尝试的VPN。如果你身处中国大陆，想要选择一款安全好用的VPN，推荐以下两款：
 
-* <a href="https://wallvpn.com/go/expressvpn/">ExpressVPN</a>：作为老王VPN的最佳替代者，ExpressVPN在中国翻墙非常稳定，在中国大陆全年可用率高达98%以上，连接速度也是最快的，在105个国家部署了3000多台服务器，轻松解锁YouTube、Netflix、ChatGPT、TikTok等网站，兼容所有手机、电脑、路由器等设备，支持8台设备同时登录，还可免费试用30天。
+* <a href="https://wallvpn.com/go/expressvpn/">ExpressVPN</a>：作为老王VPN的最佳替代者，ExpressVPN在中国翻墙非常稳定，在中国大陆全年可用率高达98%以上，连接速度也是最快的，在105个国家部署了3000多台服务器，轻松解锁YouTube、Netflix、ChatGPT、TikTok等网站，兼容所有手机、电脑、路由器等设备，支持10台设备同时登录，还可免费试用30天。
 
 * <a href="https://wallvpn.com/go/strong-vpn/">StrongVPN</a>：作为老牌VPN，StrongVPN在30个国家和地区部署了950多台服务器，支持Windows、MacOS、iOS、Android等设备，允许12台设备同时登录，支持支付宝付款，也提供30天免费试用。
 
